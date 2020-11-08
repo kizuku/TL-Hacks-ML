@@ -3,12 +3,13 @@
 #navlist {
     list-style-type: none;
     float: right;
-    margin-right: 15px;
+    margin-right: 8vw;
 }
 
 #navbar {
     width: 100%;
     display: inline-block;
+    padding-top: 1em;
 }
 
 #logo {
@@ -34,5 +35,5 @@
 }
 
 .navbutton a:hover {
-    color: $bright-primary;
+    color: white;
 }
