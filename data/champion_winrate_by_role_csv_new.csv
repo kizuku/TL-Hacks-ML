@@ -1,0 +1,548 @@
+top,azir,1.0,1,1
+top,leona,1.0,1,1
+top,zoe,1.0,1,1
+top,bard,1.0,1,1
+top,janna,0.8333333333333334,10,12
+top,ekko,0.7777777777777778,7,9
+top,dr. mundo,0.76,19,25
+top,lissandra,0.7142857142857143,5,7
+top,yasuo,0.7,7,10
+top,volibear,0.6666666666666666,2,3
+top,fiddlesticks 2020,0.6111111111111112,11,18
+top,neeko,0.6,42,70
+top,rengar,0.5882352941176471,10,17
+top,kalista,0.574468085106383,27,47
+top,tristana,0.5454545454545454,6,11
+top,hecarim,0.5441176470588235,37,68
+top,camille,0.5407407407407407,584,1080
+top,cassiopeia,0.5365853658536586,22,41
+top,renekton,0.5299472927647341,1106,2087
+top,sett,0.5292955892034233,804,1519
+top,urgot 2017,0.5255813953488372,113,215
+top,olaf,0.5238095238095238,11,21
+top,wukong,0.5192743764172335,458,882
+top,riven,0.5128205128205128,20,39
+top,volibear 2020,0.5081967213114754,310,610
+top,akali 2018,0.5059523809523809,85,168
+top,sion,0.5039164490861618,193,383
+top,ornn,0.5036496350364964,1518,3014
+top,sejuani,0.5,2,4
+top,galio 2017,0.5,1,2
+top,sylas,0.5,145,290
+top,viktor,0.5,4,8
+top,karthus,0.5,1,2
+top,swain 2018,0.5,3,6
+top,ezreal,0.5,1,2
+top,transparent,0.5,10,20
+top,irelia 2018,0.4942528735632184,129,261
+top,jax,0.49107142857142855,165,336
+top,jayce,0.48627450980392156,248,510
+top,lucian,0.4860335195530726,87,179
+top,rumble,0.4854771784232365,117,241
+top,gangplank,0.4852589641434263,609,1255
+top,malphite,0.4839506172839506,196,405
+top,mordekaiser 2019,0.48336252189141854,552,1142
+top,vladimir,0.48148148148148145,169,351
+top,aatrox 2018,0.4779281930547381,812,1699
+top,kennen,0.47780126849894294,226,473
+top,soraka,0.4765625,61,128
+top,vayne,0.47619047619047616,10,21
+top,karma,0.4727272727272727,78,165
+top,shen,0.4641434262948207,233,502
+top,darius,0.4625,37,80
+top,ryze,0.4605263157894737,35,76
+top,kled,0.45977011494252873,80,174
+top,kayle 2019,0.4594594594594595,85,185
+top,lulu,0.45454545454545453,15,33
+top,cho'gath,0.4520547945205479,66,146
+top,fiora,0.45041322314049587,109,242
+top,garen,0.4444444444444444,12,27
+top,maokai,0.4372549019607843,223,510
+top,illaoi,0.43636363636363634,24,55
+top,gnar,0.43023255813953487,148,344
+top,tryndamere,0.42857142857142855,6,14
+top,poppy,0.4264705882352941,87,204
+top,singed,0.4117647058823529,7,17
+top,shyvana,0.4,8,20
+top,quinn,0.39655172413793105,23,58
+top,pantheon 2019,0.39285714285714285,33,84
+top,qiyana,0.375,3,8
+top,yorick,0.375,18,48
+top,trundle,0.3684210526315789,14,38
+top,zac,0.34285714285714286,12,35
+top,leblanc,0.3333333333333333,1,3
+top,nocturne,0.3333333333333333,2,6
+top,gragas,0.3191489361702128,15,47
+top,kayn,0.25,1,4
+top,lillia,0.23333333333333334,7,30
+top,jarvan iv,0.21052631578947367,4,19
+top,nasus,0.2,1,5
+top,zilean,0.15789473684210525,3,19
+top,sona,0.14285714285714285,2,14
+top,syndra,0.13333333333333333,2,15
+top,skarner,0.11764705882352941,2,17
+top,graves,0.1111111111111111,2,18
+top,diana,0.09090909090909091,1,11
+top,twitch,0.09090909090909091,1,11
+top,kassadin,0.08333333333333333,1,12
+top,heimerdinger,0.07692307692307693,1,13
+top,elise,0.0,0,2
+top,miss fortune,0.0,0,1
+top,nautilus,0.0,0,2
+top,xayah,0.0,0,10
+top,rakan,0.0,0,10
+top,orianna,0.0,0,10
+top,lee sin,0.0,0,1
+top,thresh,0.0,0,1
+top,morgana 2019,0.0,0,10
+top,pyke,0.0,0,1
+top,shaco,0.0,0,10
+top,draven,0.0,0,10
+top,zyra,0.0,0,10
+top,corki,0.0,0,1
+top,anivia,0.0,0,10
+top,jinx,0.0,0,10
+top,ziggs,0.0,0,11
+top,annie,0.0,0,10
+top,warwick 2017,0.0,0,1
+top,master yi,0.0,0,10
+top,amumu,0.0,0,2
+top,rammus,0.0,0,10
+top,vi,0.0,0,10
+top,teemo,0.0,0,12
+top,udyr,0.0,0,10
+top,yone,0.0,0,1
+jungle,tahm kench,1.0,1,1
+jungle,cassiopeia,1.0,1,1
+jungle,galio 2017,1.0,1,1
+jungle,leblanc,1.0,2,2
+jungle,lissandra,1.0,1,1
+jungle,riven,1.0,2,2
+jungle,yuumi,1.0,1,1
+jungle,yone,1.0,2,2
+jungle,camille,0.8571428571428571,6,7
+jungle,rengar,0.6896551724137931,20,29
+jungle,qiyana,0.6575342465753424,48,73
+jungle,evelynn 2017,0.5795454545454546,51,88
+jungle,nidalee,0.5584045584045584,588,1053
+jungle,shen,0.5416666666666666,13,24
+jungle,kha'zix,0.5376884422110553,214,398
+jungle,graves,0.5278048780487805,1082,2050
+jungle,zac,0.5242290748898678,119,227
+jungle,karthus,0.5218579234972678,191,366
+jungle,sett,0.5150273224043715,377,732
+jungle,volibear 2020,0.5149330587023687,500,971
+jungle,rek'sai,0.5086206896551724,472,928
+jungle,trundle,0.5062260536398467,1057,2088
+jungle,gragas,0.5044964028776978,561,1112
+jungle,rumble,0.5,1,2
+jungle,jax,0.5,2,4
+jungle,transparent,0.5,10,20
+jungle,brand,0.5,3,6
+jungle,shyvana,0.4968553459119497,79,159
+jungle,olaf,0.49622799664710815,592,1193
+jungle,hecarim,0.49127906976744184,169,344
+jungle,ekko,0.49032258064516127,152,310
+jungle,lee sin,0.48510281158203944,1156,2383
+jungle,nocturne,0.4824120603015075,96,199
+jungle,elise,0.4797297297297297,426,888
+jungle,skarner,0.47959183673469385,94,196
+jungle,jarvan iv,0.47581989994441354,856,1799
+jungle,fiddlesticks 2020,0.47058823529411764,24,51
+jungle,lillia,0.4671814671814672,242,518
+jungle,poppy,0.4666666666666667,21,45
+jungle,kindred,0.46283783783783783,274,592
+jungle,sejuani,0.4626865671641791,496,1072
+jungle,taliyah,0.4583333333333333,55,120
+jungle,sylas,0.45454545454545453,50,110
+jungle,xin zhao 2018,0.4473684210526316,17,38
+jungle,wukong,0.43137254901960786,44,102
+jungle,pantheon 2019,0.42528735632183906,74,174
+jungle,nunu & willump,0.4222222222222222,19,45
+jungle,kayn,0.38636363636363635,34,88
+jungle,dr. mundo,0.36363636363636365,4,11
+jungle,shaco,0.35714285714285715,10,28
+jungle,ivern,0.3409090909090909,15,44
+jungle,warwick 2017,0.3333333333333333,2,6
+jungle,ornn,0.3,3,10
+jungle,diana,0.2727272727272727,9,33
+jungle,maokai,0.25,5,20
+jungle,vi,0.25,6,24
+jungle,mordekaiser 2019,0.2,3,15
+jungle,morgana 2019,0.1875,3,16
+jungle,amumu,0.14285714285714285,1,7
+jungle,jayce,0.09090909090909091,1,11
+jungle,kassadin,0.09090909090909091,1,11
+jungle,rammus,0.07692307692307693,1,13
+jungle,master yi,0.045454545454545456,1,22
+jungle,nautilus,0.0,0,1
+jungle,aatrox 2018,0.0,0,11
+jungle,xayah,0.0,0,10
+jungle,rakan,0.0,0,12
+jungle,orianna,0.0,0,10
+jungle,renekton,0.0,0,2
+jungle,irelia 2018,0.0,0,12
+jungle,syndra,0.0,0,12
+jungle,thresh,0.0,0,1
+jungle,ryze,0.0,0,10
+jungle,zoe,0.0,0,1
+jungle,gangplank,0.0,0,10
+jungle,akali 2018,0.0,0,10
+jungle,sion,0.0,0,1
+jungle,gnar,0.0,0,10
+jungle,cho'gath,0.0,0,2
+jungle,zilean,0.0,0,10
+jungle,draven,0.0,0,10
+jungle,karma,0.0,0,10
+jungle,heimerdinger,0.0,0,10
+jungle,zyra,0.0,0,10
+jungle,urgot 2017,0.0,0,1
+jungle,kayle 2019,0.0,0,10
+jungle,soraka,0.0,0,10
+jungle,malphite,0.0,0,10
+jungle,anivia,0.0,0,10
+jungle,nasus,0.0,0,1
+jungle,jinx,0.0,0,10
+jungle,garen,0.0,0,11
+jungle,tryndamere,0.0,0,1
+jungle,ziggs,0.0,0,10
+jungle,fiddlesticks,0.0,0,1
+jungle,annie,0.0,0,10
+jungle,sona,0.0,0,10
+jungle,singed,0.0,0,1
+jungle,twitch,0.0,0,10
+jungle,teemo,0.0,0,11
+jungle,udyr,0.0,0,11
+mid,rek'sai,1.0,2,2
+mid,thresh,1.0,1,1
+mid,kindred,1.0,4,4
+mid,jax,1.0,1,1
+mid,rengar,1.0,1,1
+mid,riven,1.0,1,1
+mid,nasus,1.0,1,1
+mid,kha'zix,1.0,1,1
+mid,darius,1.0,1,1
+mid,urgot 2017,0.75,3,4
+mid,kled,0.7407407407407407,20,27
+mid,lee sin,0.6666666666666666,2,3
+mid,swain 2018,0.6666666666666666,8,12
+mid,vayne,0.6153846153846154,16,26
+mid,nocturne,0.6078431372549019,31,51
+mid,kai'sa,0.6,3,5
+mid,kennen,0.6,3,5
+mid,tryndamere,0.6,3,5
+mid,snydra,0.5875,47,80
+mid,sion,0.5833333333333334,7,12
+mid,cho'gath,0.5714285714285714,20,35
+mid,kayn,0.5714285714285714,8,14
+mid,wukong,0.5714285714285714,4,7
+mid,twisted fate,0.5712451861360719,445,779
+mid,renekton,0.5520833333333334,53,96
+mid,nunu & willump,0.5454545454545454,6,11
+mid,yone,0.5416666666666666,26,48
+mid,cassiopeia,0.5412960609911055,426,787
+mid,ezreal,0.5333333333333333,16,30
+mid,zoe,0.5293761356753482,874,1651
+mid,syndra,0.5266808964781217,987,1874
+mid,pantheon 2019,0.525,147,280
+mid,malzahar,0.5245901639344263,32,61
+mid,ekko,0.524416135881104,247,471
+mid,camille,0.5238095238095238,22,42
+mid,leblanc,0.5231164383561644,611,1168
+mid,lissandra,0.5161290322580645,96,186
+mid,sett,0.5123674911660777,145,283
+mid,akali 2018,0.5099540581929556,333,653
+mid,yasuo,0.5037593984962406,134,266
+mid,vel'koz,0.5034013605442177,74,147
+mid,orianna,0.5002549719530852,981,1961
+mid,fiora,0.5,3,6
+mid,taliyah,0.5,37,74
+mid,kassadin,0.49874686716791977,199,399
+mid,lucian,0.49,245,500
+mid,rumble,0.48872180451127817,195,399
+mid,jayce,0.48663101604278075,91,187
+mid,vladimir,0.48344370860927155,73,151
+mid,galio 2017,0.4830097087378641,398,824
+mid,varus 2018,0.48148148148148145,13,27
+mid,ryze,0.4777777777777778,215,450
+mid,viktor,0.4767123287671233,174,365
+mid,transparent,0.47619047619047616,10,21
+mid,qiyana,0.47586206896551725,138,290
+mid,ornn,0.47342995169082125,98,207
+mid,corki,0.4731182795698925,396,837
+mid,fiddlesticks 2020,0.46875,15,32
+mid,ziggs,0.46808510638297873,132,282
+mid,sylas,0.466966966966967,311,666
+mid,aatrox 2018,0.4666666666666667,28,60
+mid,azir,0.4666301969365427,853,1828
+mid,diana,0.45564516129032256,113,248
+mid,heimerdinger,0.44,11,25
+mid,nautilus,0.4393939393939394,29,66
+mid,irelia 2018,0.43548387096774194,135,310
+mid,zilean,0.4339622641509434,46,106
+mid,veigar,0.4339622641509434,46,106
+mid,neeko,0.43103448275862066,50,116
+mid,kalista,0.42857142857142855,6,14
+mid,xerath,0.4230769230769231,22,52
+mid,karma,0.4114441416893733,151,367
+mid,karthus,0.4,6,15
+mid,mordekaiser 2019,0.3870967741935484,24,62
+mid,zed,0.38571428571428573,27,70
+mid,tristana,0.384,48,125
+mid,fizz,0.3793103448275862,11,29
+mid,aurelion sol,0.3793103448275862,11,29
+mid,talon,0.35294117647058826,6,17
+mid,maokai,0.35294117647058826,6,17
+mid,ahri,0.35135135135135137,13,37
+mid,lulu,0.35,21,60
+mid,olaf,0.3333333333333333,1,3
+mid,morgana 2019,0.3333333333333333,15,45
+mid,kog'maw,0.3333333333333333,29,87
+mid,malphite,0.3076923076923077,8,26
+mid,katarina,0.29411764705882354,5,17
+mid,rakan,0.2857142857142857,4,14
+mid,gragas,0.2777777777777778,5,18
+mid,soraka,0.2777777777777778,5,18
+mid,anivia,0.26,13,50
+mid,aphelios,0.25,1,4
+mid,pyke,0.25,2,8
+mid,kayle 2019,0.25,4,16
+mid,lillia,0.25,4,16
+mid,graves,0.21052631578947367,4,19
+mid,lux,0.2,4,20
+mid,annie,0.1875,3,16
+mid,jarvan iv,0.09090909090909091,1,11
+mid,vi,0.09090909090909091,1,11
+mid,gangplank,0.06666666666666667,1,15
+mid,garen,0.06666666666666667,1,15
+mid,miss fortune,0.0,0,2
+mid,xayah,0.0,0,12
+mid,leona,0.0,0,2
+mid,gnar,0.0,0,11
+mid,taric,0.0,0,6
+mid,bard,0.0,0,1
+mid,zac,0.0,0,2
+mid,shaco,0.0,0,10
+mid,draven,0.0,0,11
+mid,nami,0.0,0,2
+mid,zyra,0.0,0,12
+mid,poppy,0.0,0,12
+mid,trundle,0.0,0,10
+mid,sivir,0.0,0,1
+mid,jinx,0.0,0,10
+mid,skarner,0.0,0,10
+mid,jhin,0.0,0,1
+mid,sona,0.0,0,10
+mid,twitch,0.0,0,10
+mid,volibear,0.0,0,1
+mid,master yi,0.0,0,10
+mid,rammus,0.0,0,11
+mid,teemo,0.0,0,10
+mid,volibear 2020,0.0,0,2
+mid,udyr,0.0,0,10
+mid,samira,0.0,0,1
+bot,rumble,1.0,1,1
+bot,renekton,1.0,1,1
+bot,galio 2017,1.0,1,1
+bot,thresh,1.0,1,1
+bot,zoe,1.0,1,1
+bot,nidalee,1.0,1,1
+bot,sion,1.0,1,1
+bot,darius,1.0,1,1
+bot,xerath,0.6666666666666666,2,3
+bot,karthus,0.5913978494623656,55,93
+bot,vel'koz,0.56,14,25
+bot,samira,0.559322033898305,33,59
+bot,neeko,0.5555555555555556,5,9
+bot,pyke,0.5454545454545454,6,11
+bot,caitlyn,0.5393258426966292,480,890
+bot,jhin,0.5355064027939465,460,859
+bot,aphelios,0.5309425579181213,1673,3151
+bot,varus 2018,0.5199719691660827,742,1427
+bot,kalista,0.5189873417721519,697,1343
+bot,taliyah,0.5106382978723404,24,47
+bot,miss fortune,0.5062819916240112,1088,2149
+bot,nautilus,0.5,2,4
+bot,viktor,0.5,3,6
+bot,transparent,0.5,10,20
+bot,volibear 2020,0.5,1,2
+bot,ezreal,0.4928500166278683,1482,3007
+bot,senna,0.4921259842519685,875,1778
+bot,sivir,0.49122807017543857,84,171
+bot,ashe,0.49081726354453625,1069,2178
+bot,draven,0.48031496062992124,61,127
+bot,cassiopeia,0.47368421052631576,45,95
+bot,yasuo,0.47368421052631576,27,57
+bot,swain 2018,0.46153846153846156,6,13
+bot,xayah,0.45875542691751087,317,691
+bot,lucian,0.4583333333333333,176,384
+bot,soraka,0.45454545454545453,25,55
+bot,kai'sa,0.4497549019607843,367,816
+bot,tristana,0.4492753623188406,62,138
+bot,ziggs,0.43805309734513276,99,226
+bot,twitch,0.43037974683544306,34,79
+bot,sona,0.4177215189873418,33,79
+bot,syndra,0.4139344262295082,101,244
+bot,vayne,0.4014084507042254,57,142
+bot,heimerdinger,0.38571428571428573,27,70
+bot,kindred,0.38461538461538464,5,13
+bot,jinx,0.38461538461538464,35,91
+bot,wukong,0.3611111111111111,13,36
+bot,kog'maw,0.3375,27,80
+bot,vladimir,0.3333333333333333,1,3
+bot,bard,0.3333333333333333,1,3
+bot,veigar,0.2692307692307692,7,26
+bot,karma,0.2608695652173913,6,23
+bot,tahm kench,0.2,1,5
+bot,lux,0.2,1,5
+bot,sett,0.14285714285714285,1,7
+bot,zilean,0.14285714285714285,2,14
+bot,maokai,0.125,2,16
+bot,morgana 2019,0.1111111111111111,2,18
+bot,aatrox 2018,0.09090909090909091,1,11
+bot,malphite,0.09090909090909091,1,11
+bot,garen,0.09090909090909091,1,11
+bot,graves,0.07692307692307693,1,13
+bot,jayce,0.07142857142857142,1,14
+bot,orianna,0.07142857142857142,1,14
+bot,elise,0.0,0,2
+bot,gragas,0.0,0,10
+bot,mordekaiser 2019,0.0,0,11
+bot,rakan,0.0,0,10
+bot,jarvan iv,0.0,0,10
+bot,azir,0.0,0,4
+bot,quinn,0.0,0,1
+bot,pantheon 2019,0.0,0,14
+bot,irelia 2018,0.0,0,15
+bot,ornn,0.0,0,1
+bot,ryze,0.0,0,10
+bot,diana,0.0,0,10
+bot,gangplank,0.0,0,10
+bot,akali 2018,0.0,0,11
+bot,sylas,0.0,0,10
+bot,gnar,0.0,0,11
+bot,cho'gath,0.0,0,6
+bot,taric,0.0,0,2
+bot,shaco,0.0,0,10
+bot,kassadin,0.0,0,10
+bot,zyra,0.0,0,10
+bot,rengar,0.0,0,1
+bot,corki,0.0,0,4
+bot,kayle 2019,0.0,0,10
+bot,poppy,0.0,0,10
+bot,trundle,0.0,0,10
+bot,anivia,0.0,0,10
+bot,skarner,0.0,0,10
+bot,annie,0.0,0,10
+bot,yuumi,0.0,0,1
+bot,master yi,0.0,0,10
+bot,janna,0.0,0,1
+bot,rammus,0.0,0,10
+bot,vi,0.0,0,10
+bot,brand,0.0,0,3
+bot,teemo,0.0,0,10
+bot,udyr,0.0,0,10
+bot,lillia,0.0,0,10
+support,lee sin,1.0,2,2
+support,lucian,1.0,2,2
+support,leblanc,1.0,1,1
+support,ezreal,1.0,1,1
+support,volibear 2011,1.0,1,1
+support,volibear 2020,1.0,1,1
+support,fiddlesticks,0.75,3,4
+support,neeko,0.6666666666666666,2,3
+support,volibear,0.6176470588235294,21,34
+support,bard,0.595514950166113,717,1204
+support,nami,0.5897435897435898,23,39
+support,rakan,0.5532900834105653,597,1079
+support,alistar,0.5402298850574713,188,348
+support,morgana 2019,0.5320754716981132,282,530
+support,wukong,0.525,21,40
+support,shen,0.524390243902439,43,82
+support,blitzcrank,0.5229357798165137,228,436
+support,thresh,0.5169179229480737,1543,2985
+support,lux,0.515358361774744,151,293
+support,galio 2017,0.5113636363636364,90,176
+support,sett,0.5075528700906344,336,662
+support,sejuani,0.5,1,2
+support,kled,0.5,1,2
+support,veigar,0.5,1,2
+support,transparent,0.5,10,20
+support,fiddlesticks 2020,0.5,2,4
+support,leona,0.49248554913294795,852,1730
+support,tahm kench,0.49205087440381556,619,1258
+support,maokai,0.4909090909090909,54,110
+support,nautilus,0.4880257009345794,1671,3424
+support,pantheon 2019,0.4873417721518987,154,316
+support,taric,0.47947214076246336,327,682
+support,karma,0.4794661190965092,467,974
+support,zilean,0.4791666666666667,46,96
+support,janna,0.4696969696969697,31,66
+support,braum,0.464461994076999,941,2026
+support,swain 2018,0.46153846153846156,6,13
+support,yuumi,0.4597156398104265,388,844
+support,lulu,0.45792563600782776,234,511
+support,rumble,0.45161290322580644,14,31
+support,zac,0.42857142857142855,3,7
+support,vel'koz,0.42857142857142855,3,7
+support,gragas,0.42028985507246375,29,69
+support,senna,0.41841004184100417,100,239
+support,pyke,0.38848920863309355,54,139
+support,soraka,0.35714285714285715,30,84
+support,renekton,0.3333333333333333,1,3
+support,brand,0.3333333333333333,2,6
+support,seraphine,0.3333333333333333,1,3
+support,trundle,0.32142857142857145,18,56
+support,zyra,0.2857142857142857,18,63
+support,cho'gath,0.25,1,4
+support,shaco,0.25,4,16
+support,sona,0.22727272727272727,5,22
+support,ashe,0.2,1,5
+support,sylas,0.16666666666666666,2,12
+support,sion,0.16666666666666666,1,6
+support,xerath,0.16666666666666666,1,6
+support,poppy,0.15789473684210525,3,19
+support,ornn,0.15384615384615385,2,13
+support,ziggs,0.15384615384615385,2,13
+support,xayah,0.09090909090909091,1,11
+support,syndra,0.09090909090909091,1,11
+support,kayle 2019,0.09090909090909091,1,11
+support,annie,0.08333333333333333,1,12
+support,mordekaiser 2019,0.07692307692307693,1,13
+support,jarvan iv,0.0625,1,16
+support,elise,0.0,0,1
+support,miss fortune,0.0,0,1
+support,aatrox 2018,0.0,0,10
+support,jayce,0.0,0,12
+support,orianna,0.0,0,12
+support,cassiopeia,0.0,0,1
+support,irelia 2018,0.0,0,11
+support,ryze,0.0,0,10
+support,diana,0.0,0,10
+support,zoe,0.0,0,1
+support,gangplank,0.0,0,10
+support,camille,0.0,0,2
+support,akali 2018,0.0,0,10
+support,lissandra,0.0,0,1
+support,nidalee,0.0,0,1
+support,gnar,0.0,0,10
+support,kassadin,0.0,0,11
+support,draven,0.0,0,10
+support,heimerdinger,0.0,0,11
+support,malphite,0.0,0,12
+support,anivia,0.0,0,10
+support,jinx,0.0,0,10
+support,garen,0.0,0,10
+support,skarner,0.0,0,10
+support,graves,0.0,0,10
+support,singed,0.0,0,1
+support,aurelion sol,0.0,0,1
+support,ivern,0.0,0,1
+support,twitch,0.0,0,10
+support,master yi,0.0,0,10
+support,rammus,0.0,0,11
+support,vi,0.0,0,10
+support,teemo,0.0,0,10
+support,udyr,0.0,0,10
+support,lillia,0.0,0,10
+support,tahmkench,0.0,0,4
