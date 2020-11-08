@@ -12,16 +12,24 @@
     width: 50%;
 }
 
+#predictButton {
+    text-align: center;
+}
+
 .teamselect {
     text-align: center;
     width: 50%;
     margin: 0 auto;
 }
 
-#team2 .champselect {
+.champselect {
+    display: block;
+}
+
+#team2 {
     text-align: right;
 }
 
-.team .jgselect, .team .botselect {
+.team .jgselect, .team .botselect, .indent {
     margin: 0 50px 0 50px;
 }
