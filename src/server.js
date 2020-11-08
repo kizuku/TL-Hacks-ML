@@ -5,23 +5,43 @@ const serveStatic = require("serve-static");
 const {spawn} = require('child_process');
 const fs = require('fs');
 const neatCsv = require('neat-csv');
-const { SSL_OP_NO_SESSION_RESUMPTION_ON_RENEGOTIATION } = require("constants");
 var port = 8000;
 var numRows = 5;
+require('dotenv').config()
+const ip = process.env.IP;
+const tcpPort = process.env.PORT;
+var net = require('net');
 
 app = express();
 app.use(serveStatic(__dirname + "../tlhacks"))
 
 app.get('/calc', function(req, res) {
-    var result;
-    const python = spawn('python', ['tempscriptname.py']);
-    python.stdout.on('data', function(data) {
-        result = data.toString();
-    });
-    python.on('close', (code) => {
-        // parse result
+    // grab info from req.headers
+    var requestString = req.headers.eggsalad;
+    console.log("Trying to connect now")
+    var client = new net.Socket();
 
-        res.send(parsedData)
+    client.connect(tcpPort, ip, function() {
+        console.log("Connected");
+        client.write(requestString);
+    })
+
+    client.on('data', function(data) {
+        // do stuff with data
+        console.log("Data received");
+
+        result = data.toString("utf-8")[7];
+        var resultString;
+
+        if (result == 1) {
+            resultString = "Team 1 win";
+        }
+        else {
+            resultString = "Team 2 win";
+        }
+
+        res.send(resultString)
+        client.destroy();
     })
 })
 
