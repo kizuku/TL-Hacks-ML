@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/kizuku/TL-Hacks-ML#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "csv-parse": "^4.14.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "neat-csv": "^5.2.0"
   }
 }
