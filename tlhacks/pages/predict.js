@@ -5,7 +5,12 @@ function PredictPage() {
     return(
         <div>
             <Navbar/>
-            <p>Predictions here</p>
+            <div id="team1" class="team">
+                <p>hi there</p>
+            </div>
+            <div id="team2" class="team">
+                <p>Heythere</p>
+            </div>
         </div>
     )
 }
