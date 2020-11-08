@@ -28,11 +28,6 @@
       "static/chunks/main.js",
       "static/chunks/webpack.js",
       "static/chunks/pages/predict.js"
-    ],
-    "/stats": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/chunks/pages/stats.js"
     ]
   },
   "ampFirstPages": []

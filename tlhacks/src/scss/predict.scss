@@ -1,14 +1,35 @@
 @import './_colors.scss';
 
-#team {
-    height: 100px;
+.team {
     display: inline-block;
 }
 
-.team1 {
-    background-color: lightcoral;
+#team1 {
+    width: 50%;
 }
 
-.team2 {
-    background-color: lightcyan;
+#team2 {
+    width: 50%;
+}
+
+#predictButton {
+    text-align: center;
+}
+
+.teamselect {
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.champselect {
+    display: block;
+}
+
+#team2 {
+    text-align: right;
+}
+
+.team .jgselect, .team .botselect, .indent {
+    margin: 0 50px 0 50px;
 }
