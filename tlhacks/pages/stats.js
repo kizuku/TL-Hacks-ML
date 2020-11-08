@@ -1,13 +1,13 @@
 import React from 'react';
 import Navbar from '../src/components/Navbar.js'
 
-function HomePage() {
+function StatsPage() {
     return(
         <div>
             <Navbar/>
-            <p>Welcome to TL Hacks ML!</p>
+            <p>Stats page!</p>
         </div>
     )
 }
 
-export default HomePage
+export default StatsPage; 
