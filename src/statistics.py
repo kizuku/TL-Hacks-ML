@@ -1,3 +1,5 @@
+from operator import itemgetter
+
 """
 This file calculates various statistics for the website.
 """
@@ -112,7 +114,7 @@ def calculate(results):
 
                     #Calculate per role winrates
                     if c.lower() not in champion_role_winrates:
-                        champion_role_winrates[c.lower()] = {k: (0,1) for k in roles}
+                        champion_role_winrates[c.lower()] = {k: (0,0) for k in roles}
                         curr = champion_role_winrates[c.lower()][roles[i]] 
                         champion_role_winrates[c.lower()][roles[i]] = (curr[0] + 1, curr[1] + 1)
                     else:
@@ -134,7 +136,7 @@ def calculate(results):
 
                     #Calculate per role winrates
                     if c.lower() not in champion_role_winrates:
-                        champion_role_winrates[c.lower()] = {k: (0,1) for k in roles}
+                        champion_role_winrates[c.lower()] = {k: (0,10) for k in roles}
                         curr = champion_role_winrates[c.lower()][roles[i]] 
                         champion_role_winrates[c.lower()][roles[i]] = (curr[0], curr[1] + 1)
                     else:
@@ -172,7 +174,7 @@ def calculate(results):
 
                     #Calculate per role winrates
                     if c.lower() not in champion_role_winrates:
-                        champion_role_winrates[c.lower()] = {k: (0,1) for k in roles}
+                        champion_role_winrates[c.lower()] = {k: (0,0) for k in roles}
                         curr = champion_role_winrates[c.lower()][roles[i]] 
                         champion_role_winrates[c.lower()][roles[i]] = (curr[0], curr[1] + 1)
                     else:
@@ -195,7 +197,7 @@ def calculate(results):
 
                     #Calculate per role winrates
                     if c.lower() not in champion_role_winrates:
-                        champion_role_winrates[c.lower()] = {k: (0,1) for k in roles}
+                        champion_role_winrates[c.lower()] = {k: (0,0) for k in roles}
                         curr = champion_role_winrates[c.lower()][roles[i]] 
                         champion_role_winrates[c.lower()][roles[i]] = (curr[0] + 1, curr[1] + 1)
                     else:
@@ -212,10 +214,15 @@ def calculate(results):
             for k,v in sorted_champion_winrates.items():
                 f.write (k + "," + str(v) + "," + str(champion_overall_winrates[k][0]) +"," + str(champion_overall_winrates[k][1]) + "\n")
 
+        for k,v in champion_role_winrates.items():
+            sorted_role_winrates = dict(reversed(sorted(v.items(), key=itemgetter(1))))
+            champion_role_winrates[k] = sorted_role_winrates
+
         with open("champion_winrate_role_csv.csv", "a+", encoding="utf-8") as f:
             for k,v in champion_role_winrates.items():
                 for role, games in champion_role_winrates[k].items():
-                    f.write(k + "," + role + "," + str(float(games[0])/games[1]) + "," + str(games[0]) + "," + str(games[1]) + "\n")
+                    if games[1] != 0:
+                        f.write(k + "," + role + "," + str(float(games[0])/games[1]) + "," + str(games[0]) + "," + str(games[1]) + "\n")
 
         # for k,v in champion_role_winrates.items():
         #     print(k,v)
